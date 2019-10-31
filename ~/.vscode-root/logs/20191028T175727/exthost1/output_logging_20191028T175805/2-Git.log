@@ -1,0 +1,342 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+> git config --get commit.template
+Open repository: /home/lian
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :yt-omdb/src/components/Navbar.js
+> git ls-files --stage -- yt-omdb/src/components/
+> git check-ignore -v -z --stdin
+> git show :yt-omdb/src/App.js
+> git ls-files --stage -- yt-omdb/src/
+> git show :yt-omdb/src/components/Navbar.js
+> git ls-files --stage -- yt-omdb/src/components/
+> git show :yt-omdb/src/App.js
+> git ls-files --stage -- yt-omdb/src/
+> git show :yt-omdb/src/components/Navbar.js
+> git ls-files --stage -- yt-omdb/src/components/
+> git show :yt-omdb/src/App.js
+> git ls-files --stage -- yt-omdb/src/
+> git show :yt-omdb/src/components/Footer.js
+> git ls-files --stage -- yt-omdb/src/components/
+> git check-ignore -v -z --stdin
+> git show :yt-omdb/src/components/Navbar.js
+> git ls-files --stage -- yt-omdb/src/components/
+> git show :yt-omdb/src/App.js
+> git ls-files --stage -- yt-omdb/src/
+> git show :yt-omdb/src/components/Footer.js
+> git ls-files --stage -- yt-omdb/src/components/
+> git show :yt-omdb/src/App.js
+> git ls-files --stage -- yt-omdb/src/
+> git show :yt-omdb/src/components/Footer.js
+> git ls-files --stage -- yt-omdb/src/components/
+> git show :yt-omdb/src/App.js
+> git ls-files --stage -- yt-omdb/src/
+> git show :yt-omdb/src/components/Navbar.js
+> git ls-files --stage -- yt-omdb/src/components/
+> git show :yt-omdb/src/App.js
+> git ls-files --stage -- yt-omdb/src/
+> git show :yt-omdb/src/App.css
+> git ls-files --stage -- yt-omdb/src/
+> git show :yt-omdb/src/APIkey.js
+> git ls-files --stage -- yt-omdb/src/
+> git check-ignore -v -z --stdin
+> git show :yt-omdb/src/App.css
+> git ls-files --stage -- yt-omdb/src/
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :yt-omdb/src/store.js
+> git ls-files --stage -- yt-omdb/src/
+> git check-ignore -v -z --stdin
+> git show :yt-omdb/src/reducers/index.js
+> git ls-files --stage -- yt-omdb/src/reducers/
+> git check-ignore -v -z --stdin
+> git show :yt-omdb/src/reducers/serchReducer.js
+> git ls-files --stage -- yt-omdb/src/reducers/
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :yt-omdb/src/actions/types.js
+> git ls-files --stage -- yt-omdb/src/actions/
+> git check-ignore -v -z --stdin
+> git show :yt-omdb/src/reducers/serchReducer.js
+> git ls-files --stage -- yt-omdb/src/reducers/
+> git show :yt-omdb/src/actions/searchActions.js
+> git ls-files --stage -- yt-omdb/src/actions/
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :yt-omdb/src/components/Navbar.js
+> git ls-files --stage -- yt-omdb/src/components/
+> git show :yt-omdb/src/components/layout/Navbar.js
+> git ls-files --stage -- yt-omdb/src/components/layout/
+> git check-ignore -v -z --stdin
+> git show :yt-omdb/src/actions/searchActions.js
+> git ls-files --stage -- yt-omdb/src/actions/
+> git show :yt-omdb/src/reducers/serchReducer.js
+> git ls-files --stage -- yt-omdb/src/reducers/
+> git show :yt-omdb/src/App.js
+> git ls-files --stage -- yt-omdb/src/
+> git check-ignore -v -z --stdin
+> git show :yt-omdb/src/components/home/Landing.js
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git check-ignore -v -z --stdin
+> git show :yt-omdb/src/components/home/SearchForm.js
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git check-ignore -v -z --stdin
+> git show :yt-omdb/src/components/layout/Navbar.js
+> git ls-files --stage -- yt-omdb/src/components/layout/
+> git show :yt-omdb/src/actions/searchActions.js
+> git ls-files --stage -- yt-omdb/src/actions/
+> git show :yt-omdb/src/components/home/Landing.js
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git show :yt-omdb/src/actions/searchActions.js
+> git ls-files --stage -- yt-omdb/src/actions/
+> git show :yt-omdb/src/reducers/serchReducer.js
+> git ls-files --stage -- yt-omdb/src/reducers/
+> git show :yt-omdb/src/actions/searchActions.js
+> git ls-files --stage -- yt-omdb/src/actions/
+> git show :yt-omdb/src/components/layout/Navbar.js
+> git ls-files --stage -- yt-omdb/src/components/layout/
+> git show :yt-omdb/src/components/layout/Footer.js
+> git ls-files --stage -- yt-omdb/src/components/layout/
+> git show :yt-omdb/src/components/layout/Navbar.js
+> git ls-files --stage -- yt-omdb/src/components/layout/
+> git show :yt-omdb/src/components/home/SearchForm.js
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git show :yt-omdb/src/components/home/Landing.js
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git show :yt-omdb/src/App.js
+> git ls-files --stage -- yt-omdb/src/
+> git show :yt-omdb/src/components/home/SearchForm.js
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git show :yt-omdb/src/components/home/Landing.js
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git show :yt-omdb/src/components/home/SearchForm.js
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git show :yt-omdb/src/components/home/Landing.js
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git show :yt-omdb/src/components/home/SearchForm.js
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git show :yt-omdb/src/actions/searchActions.js
+> git ls-files --stage -- yt-omdb/src/actions/
+> git show :yt-omdb/src/components/home/SearchForm.js
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git show :yt-omdb/src/App.js
+> git ls-files --stage -- yt-omdb/src/
+> git check-ignore -v -z --stdin
+> git show :yt-omdb/src/reducers/index.js
+> git ls-files --stage -- yt-omdb/src/reducers/
+> git show :yt-omdb/src/reducers/serchReducer.js
+> git ls-files --stage -- yt-omdb/src/reducers/
+> git show :yt-omdb/src/reducers/searchReducer.js
+> git ls-files --stage -- yt-omdb/src/reducers/
+> git check-ignore -v -z --stdin
+> git show :yt-omdb/src/components/layout/Navbar.js
+> git ls-files --stage -- yt-omdb/src/components/layout/
+> git show :yt-omdb/src/components/home/Landing.js
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git show :yt-omdb/src/components/home/SearchForm.js
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git show :yt-omdb/src/actions/searchActions.js
+> git ls-files --stage -- yt-omdb/src/actions/
+> git show :yt-omdb/src/reducers/searchReducer.js
+> git ls-files --stage -- yt-omdb/src/reducers/
+> git show :yt-omdb/src/components/home/SearchForm.js
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git show :yt-omdb/src/reducers/index.js
+> git ls-files --stage -- yt-omdb/src/reducers/
+> git show :yt-omdb/src/components/home/SearchForm.js
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git show :yt-omdb/src/actions/searchActions.js
+> git ls-files --stage -- yt-omdb/src/actions/
+> git show :yt-omdb/src/components/home/Landing.js
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git show :yt-omdb/src/store.js
+> git ls-files --stage -- yt-omdb/src/
+> git show :yt-omdb/src/reducers/index.js
+> git ls-files --stage -- yt-omdb/src/reducers/
+> git show :yt-omdb/src/components/home/SearchForm.js
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git show :yt-omdb/src/reducers/searchReducer.js
+> git ls-files --stage -- yt-omdb/src/reducers/
+> git show :yt-omdb/src/components/home/SearchForm.js
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git show :yt-omdb/package.json
+> git ls-files --stage -- yt-omdb/
+> git show :yt-omdb/package-lock.json
+> git ls-files --stage -- yt-omdb/
+> git show :yt-omdb/src/components/home/SearchForm.js
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git check-ignore -v -z --stdin
+> git show :yt-omdb/package.json
+> git ls-files --stage -- yt-omdb/
+> git show :yt-omdb/src/components/home/Landing.js
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git show :yt-omdb/package.json
+> git show :yt-omdb/src/components/home/SearchForm.js
+> git ls-files --stage -- yt-omdb/
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git show :yt-omdb/src/actions/searchActions.js
+> git ls-files --stage -- yt-omdb/src/actions/
+> git show :yt-omdb/src/components/home/SearchForm.js
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git show :yt-omdb/src/actions/searchActions.js
+> git ls-files --stage -- yt-omdb/src/actions/
+> git show :yt-omdb/src/components/home/SearchForm.js
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git show :yt-omdb/src/actions/searchActions.js
+> git ls-files --stage -- yt-omdb/src/actions/
+> git show :yt-omdb/src/components/home/SearchForm.js
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git show :yt-omdb/src/actions/searchActions.js
+> git ls-files --stage -- yt-omdb/src/actions/
+> git show :yt-omdb/src/components/home/SearchForm.js
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git show :yt-omdb/src/actions/searchActions.js
+> git ls-files --stage -- yt-omdb/src/actions/
+> git show :yt-omdb/src/store.js
+> git ls-files --stage -- yt-omdb/src/
+> git show :yt-omdb/src/actions/searchActions.js
+> git ls-files --stage -- yt-omdb/src/actions/
+> git show :yt-omdb/src/APIkey.js
+> git ls-files --stage -- yt-omdb/src/
+> git show :yt-omdb/src/actions/searchActions.js
+> git ls-files --stage -- yt-omdb/src/actions/
+> git show :yt-omdb/src/actions/types.js
+> git ls-files --stage -- yt-omdb/src/actions/
+> git show :yt-omdb/src/actions/searchActions.js
+> git ls-files --stage -- yt-omdb/src/actions/
+> git show :yt-omdb/src/reducers/searchReducer.js
+> git ls-files --stage -- yt-omdb/src/reducers/
+> git show :yt-omdb/src/components/home/SearchForm.js
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git show :yt-omdb/src/actions/searchActions.js
+> git ls-files --stage -- yt-omdb/src/actions/
+> git show :yt-omdb/src/components/home/SearchForm.js
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git show :yt-omdb/src/actions/searchActions.js
+> git ls-files --stage -- yt-omdb/src/actions/
+> git show :yt-omdb/src/components/home/SearchForm.js
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git show :yt-omdb/src/actions/searchActions.js
+> git ls-files --stage -- yt-omdb/src/actions/
+> git show :yt-omdb/src/components/home/SearchForm.js
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git show :yt-omdb/src/actions/searchActions.js
+> git ls-files --stage -- yt-omdb/src/actions/
+> git show :yt-omdb/src/reducers/searchReducer.js
+> git ls-files --stage -- yt-omdb/src/reducers/
+> git show :yt-omdb/src/components/home/SearchForm.js
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git show :yt-omdb/src/reducers/searchReducer.js
+> git ls-files --stage -- yt-omdb/src/reducers/
+> git show :yt-omdb/src/components/home/SearchForm.js
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git show :yt-omdb/src/actions/searchActions.js
+> git ls-files --stage -- yt-omdb/src/actions/
+> git show :yt-omdb/src/components/home/SearchForm.js
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git show :yt-omdb/src/actions/searchActions.js
+> git ls-files --stage -- yt-omdb/src/actions/
+> git show :yt-omdb/src/reducers/searchReducer.js
+> git ls-files --stage -- yt-omdb/src/reducers/
+> git show :yt-omdb/src/actions/types.js
+> git ls-files --stage -- yt-omdb/src/actions/
+> git show :yt-omdb/src/components/home/Landing.js
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git show :yt-omdb/src/components/home/SearchForm.js
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git show :yt-omdb/src/reducers/index.js
+> git ls-files --stage -- yt-omdb/src/reducers/
+> git show :yt-omdb/src/reducers/searchReducer.js
+> git ls-files --stage -- yt-omdb/src/reducers/
+> git show :yt-omdb/src/index.js
+> git ls-files --stage -- yt-omdb/src/
+> git show :yt-omdb/src/serviceWorker.js
+> git ls-files --stage -- yt-omdb/src/
+> git show :yt-omdb/src/store.js
+> git ls-files --stage -- yt-omdb/src/
+> git show :yt-omdb/src/App.js
+> git ls-files --stage -- yt-omdb/src/
+> git show :yt-omdb/src/reducers/index.js
+> git ls-files --stage -- yt-omdb/src/reducers/
+> git show :yt-omdb/src/serviceWorker.js
+> git ls-files --stage -- yt-omdb/src/
+> git show :yt-omdb/src/index.js
+> git ls-files --stage -- yt-omdb/src/
+> git show :yt-omdb/public/index.html
+> git ls-files --stage -- yt-omdb/public/
+> git show :yt-omdb/src/components/home/SearchForm.js
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git show :yt-omdb/src/actions/searchActions.js
+> git ls-files --stage -- yt-omdb/src/actions/
+> git show :yt-omdb/src/components/layout/Navbar.js
+> git ls-files --stage -- yt-omdb/src/components/layout/
+> git show :yt-omdb/src/components/layout/Footer.js
+> git ls-files --stage -- yt-omdb/src/components/layout/
+> git show :yt-omdb/src/components/home/SearchForm.js
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git show :yt-omdb/src/actions/searchActions.js
+> git ls-files --stage -- yt-omdb/src/actions/
+> git show :yt-omdb/src/reducers/searchReducer.js
+> git ls-files --stage -- yt-omdb/src/reducers/
+> git show :yt-omdb/src/components/home/SearchForm.js
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git show :yt-omdb/src/actions/searchActions.js
+> git ls-files --stage -- yt-omdb/src/actions/
+> git show :yt-omdb/src/components/layout/Navbar.js
+> git ls-files --stage -- yt-omdb/src/components/layout/
+> git show :yt-omdb/src/actions/searchActions.js
+> git ls-files --stage -- yt-omdb/src/actions/
+> git show :yt-omdb/src/components/layout/Footer.js
+> git ls-files --stage -- yt-omdb/src/components/layout/
+> git show :yt-omdb/src/actions/searchActions.js
+> git ls-files --stage -- yt-omdb/src/actions/
+> git show :yt-omdb/src/reducers/searchReducer.js
+> git ls-files --stage -- yt-omdb/src/reducers/
+> git show :yt-omdb/src/components/home/SearchForm.js
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git show :yt-omdb/src/actions/searchActions.js
+> git ls-files --stage -- yt-omdb/src/actions/
+> git show :yt-omdb/src/components/home/SearchForm.js
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git show :yt-omdb/src/reducers/index.js
+> git ls-files --stage -- yt-omdb/src/reducers/
+> git show :yt-omdb/src/reducers/searchReducer.js
+> git ls-files --stage -- yt-omdb/src/reducers/
+> git show :yt-omdb/src/actions/searchActions.js
+> git ls-files --stage -- yt-omdb/src/actions/
+> git show :yt-omdb/src/reducers/searchReducer.js
+> git ls-files --stage -- yt-omdb/src/reducers/
+> git show :yt-omdb/src/reducers/index.js
+> git ls-files --stage -- yt-omdb/src/reducers/
+> git show :yt-omdb/src/reducers/searchReducer.js
+> git ls-files --stage -- yt-omdb/src/reducers/
+> git show :yt-omdb/src/components/home/SearchForm.js
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git show :yt-omdb/src/App.js
+> git ls-files --stage -- yt-omdb/src/
+> git show :yt-omdb/public/index.html
+> git ls-files --stage -- yt-omdb/public/
+> git show :yt-omdb/src/components/home/SearchForm.js
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git show :yt-omdb/src/actions/searchActions.js
+> git ls-files --stage -- yt-omdb/src/actions/
+> git show :yt-omdb/src/components/home/SearchForm.js
+> git ls-files --stage -- yt-omdb/src/components/home/
+> git show :yt-omdb/src/actions/searchActions.js
+> git ls-files --stage -- yt-omdb/src/actions/
+> git show :yt-omdb/src/reducers/searchReducer.js
+> git ls-files --stage -- yt-omdb/src/reducers/
+> git show :yt-omdb/src/actions/searchActions.js
+> git ls-files --stage -- yt-omdb/src/actions/
+> git show :yt-omdb/src/reducers/searchReducer.js
+> git ls-files --stage -- yt-omdb/src/reducers/
+> git show :yt-omdb/src/actions/types.js
+> git ls-files --stage -- yt-omdb/src/actions/

@@ -1,0 +1,8 @@
+[2019-10-28 16:43:27.734] [sharedprocess] [info] main {"machineId":"21d51b09c3db05ba4ce7212f8dd9ec182bf182ba8bff6a3942a79f9556baf33f","windowId":2}
+[2019-10-28 16:44:07.727] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-10-28 17:36:05.682] [sharedprocess] [info] Installing extension: dsznajder.es7-react-js-snippets
+[2019-10-28 17:36:08.001] [sharedprocess] [info] Downloaded extension: dsznajder.es7-react-js-snippets /tmp/53390649-fa2b-4c3d-8056-5716605b258b
+[2019-10-28 17:36:08.266] [sharedprocess] [info] Extracted extension to /home/lian/.vscode/extensions/.dsznajder.es7-react-js-snippets-2.4.3: dsznajder.es7-react-js-snippets
+[2019-10-28 17:36:08.271] [sharedprocess] [info] Renamed to /home/lian/.vscode/extensions/dsznajder.es7-react-js-snippets-2.4.3
+[2019-10-28 17:36:08.273] [sharedprocess] [info] Installation completed. dsznajder.es7-react-js-snippets
+[2019-10-28 17:36:08.319] [sharedprocess] [info] Extensions installed successfully: dsznajder.es7-react-js-snippets

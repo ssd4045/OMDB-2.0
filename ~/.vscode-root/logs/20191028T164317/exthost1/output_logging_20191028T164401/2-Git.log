@@ -1,0 +1,88 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+> git config --get commit.template
+Open repository: /home/lian
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :yt-omdb/src/logo.svg
+> git ls-files --stage -- yt-omdb/src/
+> git check-ignore -v -z --stdin
+> git show :yt-omdb/src/App.js
+> git ls-files --stage -- yt-omdb/src/
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git show :yt-omdb/src/App.js
+> git ls-files --stage -- yt-omdb/src/
+> git show :yt-omdb/src/App.test.js
+> git ls-files --stage -- yt-omdb/src/
+> git show :yt-omdb/src/App.js
+> git ls-files --stage -- yt-omdb/src/
+> git show :yt-omdb/src/Components
+> git ls-files --stage -- yt-omdb/src/
+> git check-ignore -v -z --stdin
+> git show :yt-omdb/src/App.js
+> git ls-files --stage -- yt-omdb/src/
+> git check-ignore -v -z --stdin
+> git show :yt-omdb/src/components/Text1.js
+> git ls-files --stage -- yt-omdb/src/components/
+> git check-ignore -v -z --stdin
+> git show :yt-omdb/src/App.js
+> git ls-files --stage -- yt-omdb/src/
+> git show :yt-omdb/src/components/Text1.js
+> git ls-files --stage -- yt-omdb/src/components/
+> git show :yt-omdb/src/App.js
+> git ls-files --stage -- yt-omdb/src/
+> git show :yt-omdb/src/index.js
+> git ls-files --stage -- yt-omdb/src/
+> git show :yt-omdb/src/App.test.js
+> git ls-files --stage -- yt-omdb/src/
+> git show :yt-omdb/src/App.js
+> git ls-files --stage -- yt-omdb/src/
+> git show :yt-omdb/src/components/Text1.js
+> git ls-files --stage -- yt-omdb/src/components/
+> git check-ignore -v -z --stdin
+> git show :yt-omdb/public/index.html
+> git ls-files --stage -- yt-omdb/public/
+> git show :yt-omdb/src/components/Text1.js
+> git ls-files --stage -- yt-omdb/src/components/
+> git show :yt-omdb/src/App.js
+> git ls-files --stage -- yt-omdb/src/
+> git show :yt-omdb/public/index.html
+> git ls-files --stage -- yt-omdb/public/
+> git show :yt-omdb/src/components/Text1.js
+> git ls-files --stage -- yt-omdb/src/components/
+> git show :yt-omdb/public/index.html
+> git ls-files --stage -- yt-omdb/public/
+> git show :yt-omdb/src/components/Text1.js
+> git ls-files --stage -- yt-omdb/src/components/
+> git check-ignore -v -z --stdin
+> git show :yt-omdb/src/components/Navbar.js
+> git ls-files --stage -- yt-omdb/src/components/
+> git show :yt-omdb/src/App.js
+> git ls-files --stage -- yt-omdb/src/
+> git show :yt-omdb/src/App.js
+> git ls-files --stage -- yt-omdb/src/
+> git show :yt-omdb/public/index.html
+> git ls-files --stage -- yt-omdb/public/
+> git show :yt-omdb/src/components/Navbar.js
+> git ls-files --stage -- yt-omdb/src/components/
+> git show :yt-omdb/src/components/Navbar.js
+> git ls-files --stage -- yt-omdb/src/components/
+> git show :yt-omdb/src/App.js
+> git ls-files --stage -- yt-omdb/src/
+> git show :yt-omdb/src/components/Navbar.js
+> git ls-files --stage -- yt-omdb/src/components/
+> git show :yt-omdb/src/App.css
+> git ls-files --stage -- yt-omdb/src/
+> git show :yt-omdb/src/components/Navbar.js
+> git ls-files --stage -- yt-omdb/src/components/
+> git show :yt-omdb/src/components/Navbar.js
+> git ls-files --stage -- yt-omdb/src/components/
