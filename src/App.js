@@ -10,8 +10,12 @@ import Profile from './components/layout/Profile'
 import Favs from './components/home/Favs'
 
 import {HashRouter as Router, Route, Switch} from 'react-router-dom'
+import Axios from "axios";
 
 class App extends React.Component {
+  componentDidMount(){
+    Axios.get("http://localhost:3001/me").then(console.log)
+  }
   render() {
     return (
       

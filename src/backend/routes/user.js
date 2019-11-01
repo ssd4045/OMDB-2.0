@@ -1,5 +1,5 @@
 const router = require('express').Router();
-const passport = require('../passport/local-auth');
+const passport = require('passport');
 const User = require('../models/user')
 const Fav = require('../models/fav')
 
@@ -22,26 +22,11 @@ router.post('/signup', (req, res) => {
     .then(user => res.send(user))
 }) 
 
-
-router.post('/signin', (req,res,next)=>{
-  passport.authenticate('local-signin', function(err,user,info){
-    if(!user){
-      return res.send(false)
-    }
-    if (user){
-      req.logIn(user, function(err){
-        if (err) return res.send(false)
-        return res.send(user)
-      })
-    }
-  })(req,res,next)
+router.post('/signin', passport.authenticate('local'),(req,res,next)=>
+{ 
+  console.log(req.session)
+  res.send(req.user)
 })
-
-// router.post('/signin', passport.authenticate('local-signin'),(req,res,next)=>
-// { 
-//   res.send(req.user)
-//   console.log("REQ.USER ESSSSSS: ",req.user)
-// })
 
 router.post('/addtofav', (req,res,next)=>
 {
@@ -64,7 +49,9 @@ router.get('/logout', (req, res, next) => {
   req.logout();
   res.redirect('/');
 });
-
+router.get('/me', (req, res, next) => {
+  res.send({user:req.user, session:req.session})
+});
 
 function isAuthenticated(req, res, next) {
   if(req.isAuthenticated()) {
